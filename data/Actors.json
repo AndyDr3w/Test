@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"battlerName":"LoganFight","characterIndex":0,"characterName":"XMAS-Walk","classId":5,"equips":[31,0,0,3,0],"faceIndex":0,"faceName":"XMAS2024","traits":[],"initialLevel":1,"maxLevel":10,"name":"Logan","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"MasonFight","characterIndex":1,"characterName":"XMAS-Walk","classId":1,"equips":[5,0,0,3,0],"faceIndex":1,"faceName":"XMAS2024","traits":[],"initialLevel":1,"maxLevel":10,"name":"Mason","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"CarterFight","characterIndex":2,"characterName":"XMAS-Walk","classId":9,"equips":[43,0,65,3,0],"faceIndex":3,"faceName":"XMAS2024","traits":[],"initialLevel":1,"maxLevel":10,"name":"Carter","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"LiamFight","characterIndex":3,"characterName":"XMAS-Walk","classId":10,"equips":[7,0,0,3,0],"faceIndex":4,"faceName":"XMAS2024","traits":[],"initialLevel":1,"maxLevel":10,"name":"Liam","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
